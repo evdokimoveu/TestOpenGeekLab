@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">TestOpenGeekLab</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_choice_registration">ChoiceRegistrationActivity</string>
+    <string name="title_activity_email_registration">EmailRegistrationActivity</string>
+    <string name="title_activity_fbregistration">FBRegistrationActivity</string>
+    <string name="title_activity_emai_login">EmaiLoginActivity</string>
+    <string name="title_activity_fblogin">FBLoginActivity</string>
+    <string name="title_activity_table_news">TableNewsActivity</string>
+    <string name="title_activity_table_user">TableUserActivity</string>
 </resources>
