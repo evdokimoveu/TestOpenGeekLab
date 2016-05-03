@@ -8,4 +8,6 @@
     <string name="title_activity_fblogin">FBLoginActivity</string>
     <string name="title_activity_table_news">TableNewsActivity</string>
     <string name="title_activity_table_user">TableUserActivity</string>
+    <string name="welcome.button.login">Login</string>
+    <string name="welcome.button.registration">Registration</string>
 </resources>
